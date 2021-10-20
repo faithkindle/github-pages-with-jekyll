@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Scheduler Embedded Services Test"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thanks for checking out this site.  This is where I will be testing embedded services with Scheduler.
